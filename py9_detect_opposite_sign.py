@@ -2,6 +2,8 @@
 QUES: Detect if two integers have opposite signs
 """
 # XOR gives 1 only on different bits
+# if sign bit is 1: Negative
+# if sign bit is 0: Positive
 
 def oppositeSigns(x, y):
     return (x ^ y) < 0
