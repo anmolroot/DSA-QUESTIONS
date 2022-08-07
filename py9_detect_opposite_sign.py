@@ -1,7 +1,7 @@
 """
 QUES: Detect if two integers have opposite signs
 """
-
+# XOR gives 1 only on different bits
 
 def oppositeSigns(x, y):
     return (x ^ y) < 0
