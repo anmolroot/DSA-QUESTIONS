@@ -2,12 +2,9 @@
 QUES: Python3 program to compute exponential value under modulo using binary exponentiation.
 """
 # prime modulo value
-
-
 N = 1000000007
 
 
-# Function code
 def exponentiation(bas, exp):
     if (exp == 0):
         return 1
