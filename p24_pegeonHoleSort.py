@@ -3,7 +3,7 @@ QUES: Pegeon Hole Sort
 """
 
 
-#
+#Time(N+size)
 
 
 def pigeonhole_sort(a):
