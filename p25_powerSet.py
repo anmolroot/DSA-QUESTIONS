@@ -6,7 +6,6 @@ Note: no. of element in power set is 2^n where n is the number of elements in th
 # Time(n2^n)
 # Space(1)
 
-# python3 program for power set
 
 import math
 
